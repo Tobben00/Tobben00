@@ -26,14 +26,14 @@
 ## Connect
 
 [![Twitter](https://img.shields.io/badge/-@tobias_mars-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/tobias_mars)
-[![LinkedIn](https://img.shields.io/badge/-tobias_mars-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobiasmars)
+[![LinkedIn](https://img.shields.io/badge/-Tobias Mars-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tobias-nikolai-mars)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tobben00)
 
 ---
 
 ### Recognition
 
-- Tobias is known in Norways as a name for developing tuning files for the automotive tuning industries
+- Tobias is known in Norways as a profesional in chiptuning industry, editing binary files found in ECU (computer of the car)
 
 ### Media
 
